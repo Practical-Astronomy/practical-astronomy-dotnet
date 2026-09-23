@@ -1,0 +1,27 @@
+var classPALib_1_1Tests_1_1PACoordinates__Tests =
+[
+    [ "PACoordinates_Tests", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#a8e8105ebf7b4ce71ae34fce9672202c9", null ],
+    [ "AngleBetweenTwoObjects", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#a859d14680580d466e3a590cb7653d28a", null ],
+    [ "AngleToDecimalDegrees", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#a798200936808d47642dbb9ed389b9663", null ],
+    [ "AtmosphericRefraction", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#a484ba34f056990443becaa1db506b52f", null ],
+    [ "CarringtonRotationNumber", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#a17b22f87ac951ea262497d0fc5d3ef39", null ],
+    [ "CorrectForAberration", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#acef7173792966a2c86b140f4ce7eaac3", null ],
+    [ "CorrectForPrecession", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#ab6e518c7af3509fc05afb86bdf9efbbf", null ],
+    [ "CorrectionsForGeocentricParallax", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#a76f6e6eb9e1c41f2e47d6bb64c18d4eb", null ],
+    [ "DecimalDegreesToAngle", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#adf08e1d9ad5125fd29ce2e88f191e439", null ],
+    [ "EclipticCoordinateToEquatorialCoordinate", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#ab6d55fca9920c0c587c1b406c14ab50d", null ],
+    [ "EquatorialCoordinatesToHorizonCoordinates", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#abc7e74799182350e6909a26ad92c54ba", null ],
+    [ "EquatorialCoordinateToEclipticCoordinate", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#a4af0ef4b8e0df9756a3077dbf9770202", null ],
+    [ "EquatorialCoordinateToGalacticCoordinate", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#a922a50c4b4bc141fa8747c331877c116", null ],
+    [ "GalacticCoordinateToEquatorialCoordinate", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#aadcb802c7d6cfa6aef339958f2176677", null ],
+    [ "HeliographicCoordinates", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#ad63346d84bd4171fd17e5f71679695e1", null ],
+    [ "HorizonCoordinatesToEquatorialCoordinates", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#a94cc78137b299d3d4817377c1e40e695", null ],
+    [ "HourAngleToRightAscension", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#a252e8f74bc6e96c3d1b83fc0f49612b6", null ],
+    [ "MeanObliquityOfTheEcliptic", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#a820916287dc13feeaf4134f07dd2e5a0", null ],
+    [ "NutationInEclipticLongitudeAndObliquity", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#ab536ba6da8588449b97fb580f674ad1a", null ],
+    [ "RightAscensionToHourAngle", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#ad4189a1444fdecbb780cfe41b4f347f9", null ],
+    [ "RisingAndSetting", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#ae7135588e9b603626ff6d78d35492151", null ],
+    [ "SelenographicCoordinates1", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#a8439d58c202fc90ff761fc0ceea385cb", null ],
+    [ "SelenographicCoordinates2", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#a325c7c148df8014f1d98a526b7a17038", null ],
+    [ "_paCoordinates", "classPALib_1_1Tests_1_1PACoordinates__Tests.html#aebaa099907c613a2b64a8fc34f5c6671", null ]
+];

@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['universaltime_5flocalcivilday_0',['UniversalTime_LocalCivilDay',['../classPALib_1_1PAMacros.html#a42c6613359269d0be28df2d7c8851cd9',1,'PALib::PAMacros']]],
+  ['universaltime_5flocalcivilmonth_1',['UniversalTime_LocalCivilMonth',['../classPALib_1_1PAMacros.html#a93757c9d159e11892405004efbb7305c',1,'PALib::PAMacros']]],
+  ['universaltime_5flocalcivilyear_2',['UniversalTime_LocalCivilYear',['../classPALib_1_1PAMacros.html#a3738223eb57b400bc33ff2ab6bfe5351',1,'PALib::PAMacros']]],
+  ['universaltimetogreenwichsiderealtime_3',['universaltimetogreenwichsiderealtime',['../classPALib_1_1PADateTime.html#ad14cfd71294e605d8a95b6a08fb24251',1,'PALib.PADateTime.UniversalTimeToGreenwichSiderealTime()'],['../classPALib_1_1PAMacros.html#a0f13eb04d449ad414eef29b5a55eb3e5',1,'PALib.PAMacros.UniversalTimeToGreenwichSiderealTime()'],['../classPALib_1_1Tests_1_1PADateTime__Tests.html#a1f35dadfe2144cbf75bc9a7bdafe5a7e',1,'PALib.Tests.PADateTime_Tests.UniversalTimeToGreenwichSiderealTime()']]],
+  ['universaltimetolocalciviltime_4',['universaltimetolocalciviltime',['../classPALib_1_1PADateTime.html#a5128ee00d5ce63156dbee54c7a0c9782',1,'PALib.PADateTime.UniversalTimeToLocalCivilTime()'],['../classPALib_1_1PAMacros.html#abb34768831e8687ff224e0918491e9de',1,'PALib.PAMacros.UniversalTimeToLocalCivilTime()'],['../classPALib_1_1Tests_1_1PADateTime__Tests.html#a3e73715645b2aeeb5c66faa5888e3e16',1,'PALib.Tests.PADateTime_Tests.UniversalTimeToLocalCivilTime()']]],
+  ['unwind_5',['Unwind',['../classPALib_1_1PAMacros.html#ac5e15b03c2c5a7209388a54b21775e01',1,'PALib::PAMacros']]],
+  ['unwinddeg_6',['UnwindDeg',['../classPALib_1_1PAMacros.html#a77e4d61573871b92ef57a538dc9d5980',1,'PALib::PAMacros']]],
+  ['utdayadjust_7',['UTDayAdjust',['../classPALib_1_1PAMacros.html#a8d9dd3731eb201d48e7639fde91bbe7a',1,'PALib::PAMacros']]],
+  ['utendtotallunareclipse_8',['UTEndTotalLunarEclipse',['../classPALib_1_1PAMacros.html#a5425b4673fe0b9a8268765ed15048c28',1,'PALib::PAMacros']]],
+  ['utendumbralunareclipse_9',['UTEndUmbraLunarEclipse',['../classPALib_1_1PAMacros.html#ab165398ce750b759fb6a60aee2e2afe0',1,'PALib::PAMacros']]],
+  ['utfirstcontactlunareclipse_10',['UTFirstContactLunarEclipse',['../classPALib_1_1PAMacros.html#a91743fa9ca1894276ae38185a86420af',1,'PALib::PAMacros']]],
+  ['utfirstcontactsolareclipse_11',['UTFirstContactSolarEclipse',['../classPALib_1_1PAMacros.html#a359cae8ed26f41a917400059d6c5bbe3',1,'PALib::PAMacros']]],
+  ['utfirstcontactsolareclipse_5fl7390_12',['UTFirstContactSolarEclipse_L7390',['../classPALib_1_1PAMacros.html#ae3c77e81ae6fff4481051b6377deda59',1,'PALib::PAMacros']]],
+  ['utlastcontactlunareclipse_13',['UTLastContactLunarEclipse',['../classPALib_1_1PAMacros.html#aa56bec9a2a1b2c34506fb0e9de1a2c21',1,'PALib::PAMacros']]],
+  ['utlastcontactsolareclipse_14',['UTLastContactSolarEclipse',['../classPALib_1_1PAMacros.html#a56ae02d5962a94434c7e4aab196a8582',1,'PALib::PAMacros']]],
+  ['utlastcontactsolareclipse_5fl7390_15',['UTLastContactSolarEclipse_L7390',['../classPALib_1_1PAMacros.html#a8de5013b80f76ccb7e1ec5245d1e5515',1,'PALib::PAMacros']]],
+  ['utmaxlunareclipse_16',['UTMaxLunarEclipse',['../classPALib_1_1PAMacros.html#ac3a73f889a737c3937216b42b8f28bd7',1,'PALib::PAMacros']]],
+  ['utmaxsolareclipse_17',['UTMaxSolarEclipse',['../classPALib_1_1PAMacros.html#a739a480c60f7a2f4dc0855d84ad0a9a2',1,'PALib::PAMacros']]],
+  ['utmaxsolareclipse_5fl7390_18',['UTMaxSolarEclipse_L7390',['../classPALib_1_1PAMacros.html#a0147ae78971466a3a71e4612aba283f2',1,'PALib::PAMacros']]],
+  ['utstarttotallunareclipse_19',['UTStartTotalLunarEclipse',['../classPALib_1_1PAMacros.html#a1082ce1de15b3b2d49d63f95c6af4c11',1,'PALib::PAMacros']]],
+  ['utstartumbralunareclipse_20',['UTStartUmbraLunarEclipse',['../classPALib_1_1PAMacros.html#ae35d4b33723c7533eb2d280c2262aa13',1,'PALib::PAMacros']]]
+];

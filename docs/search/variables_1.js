@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['a_0',['a',['../classPALib_1_1PAMacros.html#a4ec8ed2cd2f62bfa4e8ee890f2f9a3f3',1,'PALib.PAMacros.a'],['../classPALib_1_1PAMacros.html#a6d5753a9971ac8e8036cfcefe80e5534',1,'PALib.PAMacros.a']]],
+  ['altitudedegrees_1',['altitudeDegrees',['../classPALib_1_1PACoordinates.html#a480262bcd12d00ad5520235f1fe0cca1',1,'PALib::PACoordinates']]],
+  ['altitudeminutes_2',['altitudeMinutes',['../classPALib_1_1PACoordinates.html#aab381cb41704937c5a97511b19c2b0f7',1,'PALib::PACoordinates']]],
+  ['amtwilightbeginshour_3',['amTwilightBeginsHour',['../classPALib_1_1PASun.html#a46acd2200edc7cfc1ab94f9aadbafc47',1,'PALib::PASun']]],
+  ['amtwilightbeginsmin_4',['amTwilightBeginsMin',['../classPALib_1_1PASun.html#a3e3cb4ccd5dcf51b6cb0e2040b344aa1',1,'PALib::PASun']]],
+  ['angdiaarcsec_5',['angDiaArcsec',['../classPALib_1_1PAPlanet.html#a13fa5f103a954f322ba9092478ed714e',1,'PALib::PAPlanet']]],
+  ['angdiameterdeg_6',['angDiameterDeg',['../classPALib_1_1PAMoon.html#a742845c075e363b732b561e5839e71b1',1,'PALib::PAMoon']]],
+  ['angdiametermin_7',['angDiameterMin',['../classPALib_1_1PAMoon.html#aae75712f519c5d7b5fa2e093aff65988',1,'PALib::PAMoon']]],
+  ['angledeg_8',['angleDeg',['../classPALib_1_1PACoordinates.html#abd111712fe1eccb52c508a5eef54b4e9',1,'PALib::PACoordinates']]],
+  ['anglemin_9',['angleMin',['../classPALib_1_1PACoordinates.html#a753bbcd5af769f2f7991542c1d68aa90',1,'PALib::PACoordinates']]],
+  ['apparentecllatdeg_10',['apparentEclLatDeg',['../classPALib_1_1PACoordinates.html#a7b8ece579f6ec0b209ae8baa8a0e271f',1,'PALib::PACoordinates']]],
+  ['apparentecllatmin_11',['apparentEclLatMin',['../classPALib_1_1PACoordinates.html#acbf75c81369a788c6b7b4f291b9bd04c',1,'PALib::PACoordinates']]],
+  ['apparentecllongdeg_12',['apparentEclLongDeg',['../classPALib_1_1PACoordinates.html#a45e774ddcd98bc96b28a7cff5b9ece64',1,'PALib::PACoordinates']]],
+  ['apparentecllongmin_13',['apparentEclLongMin',['../classPALib_1_1PACoordinates.html#af7730b4480e1d15b58d1d2ff44a7466f',1,'PALib::PACoordinates']]],
+  ['apparentecllongsec_14',['apparentEclLongSec',['../classPALib_1_1PACoordinates.html#aa3817eb0ff29d0b1dd3814bce78e6aeb',1,'PALib::PACoordinates']]],
+  ['azimuthdegrees_15',['azimuthDegrees',['../classPALib_1_1PACoordinates.html#a5c67fdf7f8ad0c316418bb037d339b14',1,'PALib::PACoordinates']]],
+  ['azimuthminutes_16',['azimuthMinutes',['../classPALib_1_1PACoordinates.html#a34f3f74fbe101b2fc4033752b9f99856',1,'PALib::PACoordinates']]],
+  ['azimuthofsunrisedeg_17',['azimuthOfSunriseDeg',['../classPALib_1_1PASun.html#a15cf5381cd8cc3410822c121e4a369cc',1,'PALib::PASun']]],
+  ['azimuthofsunsetdeg_18',['azimuthOfSunsetDeg',['../classPALib_1_1PASun.html#a40c43339038e53d4d0cc6f0cb4eeae90',1,'PALib::PASun']]],
+  ['azimuthseconds_19',['azimuthSeconds',['../classPALib_1_1PACoordinates.html#a1095f2864f56a08dbc45d24b7297e3b3',1,'PALib::PACoordinates']]],
+  ['azrise_20',['azRise',['../classPALib_1_1PACoordinates.html#a7c7da6bb34bfcda7ca0cedd6b6ee9a2b',1,'PALib::PACoordinates']]]
+];

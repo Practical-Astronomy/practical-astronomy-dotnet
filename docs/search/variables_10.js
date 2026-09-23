@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['sa_0',['sa',['../classPALib_1_1PAMacros.html#a69bf4c233f40b438b6ccafb369249d34',1,'PALib::PAMacros']]],
+  ['solareclipsecertaindateday_1',['solarEclipseCertainDateDay',['../classPALib_1_1PAEclipses.html#a274fab2d3170b02dcbe38afcceb7e146',1,'PALib::PAEclipses']]],
+  ['solareclipsecertaindatemonth_2',['solarEclipseCertainDateMonth',['../classPALib_1_1PAEclipses.html#a681044d0952fbbe55772524748d9f0cb',1,'PALib::PAEclipses']]],
+  ['solareclipsecertaindateyear_3',['solarEclipseCertainDateYear',['../classPALib_1_1PAEclipses.html#a5a6e1819c6b11df0c3015826b938b126',1,'PALib::PAEclipses']]],
+  ['status_4',['status',['../classPALib_1_1PAEclipses.html#ab4d38e7365d935f2a5f1403eec29127e',1,'PALib::PAEclipses']]],
+  ['subearthlatitude_5',['subEarthLatitude',['../classPALib_1_1PACoordinates.html#ab7b5a656bd2e82687a1885337ec3e460',1,'PALib::PACoordinates']]],
+  ['subearthlongitude_6',['subEarthLongitude',['../classPALib_1_1PACoordinates.html#a1f05a148e2f68a1b619409679a573bf2',1,'PALib::PACoordinates']]],
+  ['subsolarcolongitude_7',['subSolarColongitude',['../classPALib_1_1PACoordinates.html#a092c34fde7405dff5f79cbcf41834433',1,'PALib::PACoordinates']]],
+  ['subsolarlongitude_8',['subSolarLongitude',['../classPALib_1_1PACoordinates.html#a27722f97cdc49667eaf830e5d472ef29',1,'PALib::PACoordinates']]],
+  ['sunangsizedeg_9',['sunAngSizeDeg',['../classPALib_1_1PASun.html#a5e0894d2aa15ca61672ed0d1a82e9f78',1,'PALib::PASun']]],
+  ['sunangsizemin_10',['sunAngSizeMin',['../classPALib_1_1PASun.html#ae4a1e2bea1a6b011a8f012415e914c8f',1,'PALib::PASun']]],
+  ['sundecdeg_11',['sunDecDeg',['../classPALib_1_1PASun.html#aaf974fc671049317bb539cebb4b23ee6',1,'PALib::PASun']]],
+  ['sundecmin_12',['sunDecMin',['../classPALib_1_1PASun.html#a0ee5eb819250b608c9e09cbb01481940',1,'PALib::PASun']]],
+  ['sundistkm_13',['sunDistKm',['../classPALib_1_1PASun.html#ae20978f0043c475ce05a06f6eb7e025d',1,'PALib::PASun']]],
+  ['sunrahour_14',['sunRAHour',['../classPALib_1_1PASun.html#adf5e6862acb772205b3c659b443a7cb7',1,'PALib::PASun']]],
+  ['sunramin_15',['sunRAMin',['../classPALib_1_1PASun.html#a15a5109d8951e3584d25477a25ac552d',1,'PALib::PASun']]],
+  ['sunrasec_16',['sunRASec',['../classPALib_1_1PASun.html#ac6603fc3a9a8fb6a9eaaadb85c757cca',1,'PALib::PASun']]]
+];

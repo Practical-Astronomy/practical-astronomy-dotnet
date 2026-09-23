@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['name_0',['name',['../classPALib_1_1Data_1_1CometDataElliptical.html#a7ee9065718e6628dc7791b756fa6c0f9',1,'PALib.Data.CometDataElliptical.Name'],['../classPALib_1_1Data_1_1CometDataParabolic.html#a7ee9065718e6628dc7791b756fa6c0f9',1,'PALib.Data.CometDataParabolic.Name'],['../classPALib_1_1Data_1_1PlanetData.html#a7ee9065718e6628dc7791b756fa6c0f9',1,'PALib.Data.PlanetData.Name'],['../classPALib_1_1Data_1_1PlanetDataPrecise.html#a7ee9065718e6628dc7791b756fa6c0f9',1,'PALib.Data.PlanetDataPrecise.Name'],['../classPALib_1_1Data_1_1BinaryData.html#a7ee9065718e6628dc7791b756fa6c0f9',1,'PALib.Data.BinaryData.Name']]],
+  ['nautical_1',['Nautical',['../namespacePALib.html#a8e13ee2dae962cfec338df39aeaef930a6d0d8fed5f601fa598df42d4d59d70ae',1,'PALib']]],
+  ['newmoon_2',['NewMoon',['../classPALib_1_1PAMacros.html#a16d0349f7a27e3f1be6af9e9e6fd353a',1,'PALib::PAMacros']]],
+  ['newmoonfullmoon_5fl6855_3',['NewMoonFullMoon_L6855',['../classPALib_1_1PAMacros.html#a8cef909e6a202834db13447f7f523206',1,'PALib::PAMacros']]],
+  ['nmlocaldateday_4',['nmLocalDateDay',['../classPALib_1_1PAMoon.html#aa4471be5109931c0786839928f67eb6a',1,'PALib::PAMoon']]],
+  ['nmlocaldatemonth_5',['nmLocalDateMonth',['../classPALib_1_1PAMoon.html#a618b63a282c643cbe2d48f6c194dc409',1,'PALib::PAMoon']]],
+  ['nmlocaldateyear_6',['nmLocalDateYear',['../classPALib_1_1PAMoon.html#ad84e3869f93aba1a7aacb3c83d83d2f7',1,'PALib::PAMoon']]],
+  ['nmlocaltimehour_7',['nmLocalTimeHour',['../classPALib_1_1PAMoon.html#a97c77252a37c6ff2db8dff37d165a0f9',1,'PALib::PAMoon']]],
+  ['nmlocaltimemin_8',['nmLocalTimeMin',['../classPALib_1_1PAMoon.html#ad3e3b57c8a40f9581682e19001c82f3a',1,'PALib::PAMoon']]],
+  ['node_9',['Node',['../classPALib_1_1Data_1_1CometDataParabolic.html#a1c6aad109b74f2d327108aafc3e67c07',1,'PALib::Data::CometDataParabolic']]],
+  ['node_5flongitudeascendingnode_10',['node_LongitudeAscendingNode',['../classPALib_1_1Data_1_1PlanetData.html#a931ac73757066655564d11e87be0993c',1,'PALib::Data::PlanetData']]],
+  ['node_5flongitudeofascendingnode_11',['node_LongitudeOfAscendingNode',['../classPALib_1_1Data_1_1CometDataElliptical.html#aba5d24bfee4450543db51ea2992610a7',1,'PALib::Data::CometDataElliptical']]],
+  ['nutationineclipticlongitudeandobliquity_12',['nutationineclipticlongitudeandobliquity',['../classPALib_1_1PACoordinates.html#af94e8b6b1fe199c36173a1e2ff650727',1,'PALib.PACoordinates.NutationInEclipticLongitudeAndObliquity()'],['../classPALib_1_1Tests_1_1PACoordinates__Tests.html#ab536ba6da8588449b97fb580f674ad1a',1,'PALib.Tests.PACoordinates_Tests.NutationInEclipticLongitudeAndObliquity()']]],
+  ['nutatlong_13',['NutatLong',['../classPALib_1_1PAMacros.html#a577a18dc5a1ff9a4435a1c6c3384113c',1,'PALib::PAMacros']]],
+  ['nutatobl_14',['NutatObl',['../classPALib_1_1PAMacros.html#a898238cd2a7f7e7479da79e8a1844d73',1,'PALib::PAMacros']]],
+  ['nutinlongdeg_15',['nutInLongDeg',['../classPALib_1_1PACoordinates.html#a661345fcec4bef6bd275046a7de13125',1,'PALib::PACoordinates']]]
+];

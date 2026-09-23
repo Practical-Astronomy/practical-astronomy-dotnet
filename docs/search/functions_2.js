@@ -1,0 +1,13 @@
+var searchData=
+[
+  ['carringtonrotationnumber_0',['carringtonrotationnumber',['../classPALib_1_1PACoordinates.html#a65414777b588af23c015b1bd2deaaac4',1,'PALib.PACoordinates.CarringtonRotationNumber()'],['../classPALib_1_1Tests_1_1PACoordinates__Tests.html#a17b22f87ac951ea262497d0fc5d3ef39',1,'PALib.Tests.PACoordinates_Tests.CarringtonRotationNumber()']]],
+  ['civildatetodaynumber_1',['civildatetodaynumber',['../classPALib_1_1PADateTime.html#afa71a8d30d9b4eb716f6eb0d92a6530e',1,'PALib.PADateTime.CivilDateToDayNumber()'],['../classPALib_1_1Tests_1_1PADateTime__Tests.html#ad287f8404d8bb7501935f68a317f06a2',1,'PALib.Tests.PADateTime_Tests.CivilDateToDayNumber()']]],
+  ['civildatetojuliandate_2',['CivilDateToJulianDate',['../classPALib_1_1PAMacros.html#a23a886c036c71d59637a33162b8a3e47',1,'PALib::PAMacros']]],
+  ['civiltimetodecimalhours_3',['civiltimetodecimalhours',['../classPALib_1_1PADateTime.html#a22534e086eb1590c67b9577d51f4b2b5',1,'PALib.PADateTime.CivilTimeToDecimalHours()'],['../classPALib_1_1Tests_1_1PADateTime__Tests.html#a0ff0f0ee724315cb2745d862a9062d55',1,'PALib.Tests.PADateTime_Tests.CivilTimeToDecimalHours()']]],
+  ['cometinfoelliptical_4',['CometInfoElliptical',['../classPALib_1_1Data_1_1CometInfoElliptical.html#ace8850ff0cb44605294eca07921522d6',1,'PALib::Data::CometInfoElliptical']]],
+  ['cometinfoparabolic_5',['CometInfoParabolic',['../classPALib_1_1Data_1_1CometInfoParabolic.html#a3b2965f455538b3a528a8a4c72e35bcd',1,'PALib::Data::CometInfoParabolic']]],
+  ['correctforaberration_6',['correctforaberration',['../classPALib_1_1PACoordinates.html#a9d00a6f44b2f65beca661edb7b656e38',1,'PALib.PACoordinates.CorrectForAberration()'],['../classPALib_1_1Tests_1_1PACoordinates__Tests.html#acef7173792966a2c86b140f4ce7eaac3',1,'PALib.Tests.PACoordinates_Tests.CorrectForAberration()']]],
+  ['correctforprecession_7',['correctforprecession',['../classPALib_1_1PACoordinates.html#ae3d2c8afcb049323de5ec352c2b13804',1,'PALib.PACoordinates.CorrectForPrecession()'],['../classPALib_1_1Tests_1_1PACoordinates__Tests.html#ab6e518c7af3509fc05afb86bdf9efbbf',1,'PALib.Tests.PACoordinates_Tests.CorrectForPrecession()']]],
+  ['correctionsforgeocentricparallax_8',['correctionsforgeocentricparallax',['../classPALib_1_1PACoordinates.html#a15a9f00a6da6fe3884efa99ae5bfcf2a',1,'PALib.PACoordinates.CorrectionsForGeocentricParallax()'],['../classPALib_1_1Tests_1_1PACoordinates__Tests.html#a76f6e6eb9e1c41f2e47d6bb64c18d4eb',1,'PALib.Tests.PACoordinates_Tests.CorrectionsForGeocentricParallax()']]],
+  ['cosine_9',['Cosine',['../classPALib_1_1Helpers_1_1MathExtensions.html#a30e1642a195ba75809a5f8f0ccc20505',1,'PALib::Helpers::MathExtensions']]]
+];

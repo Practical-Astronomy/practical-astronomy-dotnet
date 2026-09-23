@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['date_20time_0',['Date/Time',['../index.html#autotoc_md4',1,'']]],
+  ['day_1',['Day',['../classPALib_1_1PADateTime.html#a7654733e6cc74d15dd0944ac3d15d20c',1,'PALib::PADateTime']]],
+  ['dd_2',['dd',['../classPALib_1_1PAMacros.html#af935b9729d98095e3142b790445c8ca2',1,'PALib::PAMacros']]],
+  ['decdegrees_3',['decDegrees',['../classPALib_1_1PACoordinates.html#a2efce926459c327fa538bb712a00c7e6',1,'PALib::PACoordinates']]],
+  ['decimaldegreesdegrees_4',['DecimalDegreesDegrees',['../classPALib_1_1PAMacros.html#adadf94bf5b3ada1a67292984b9365ece',1,'PALib::PAMacros']]],
+  ['decimaldegreesminutes_5',['DecimalDegreesMinutes',['../classPALib_1_1PAMacros.html#ad1cbffc23ab1524fac88da7a918b8c75',1,'PALib::PAMacros']]],
+  ['decimaldegreesseconds_6',['DecimalDegreesSeconds',['../classPALib_1_1PAMacros.html#aaedcb84f2f35057b767f91ca5df0d46d',1,'PALib::PAMacros']]],
+  ['decimaldegreestoangle_7',['decimaldegreestoangle',['../classPALib_1_1Tests_1_1PACoordinates__Tests.html#adf08e1d9ad5125fd29ce2e88f191e439',1,'PALib.Tests.PACoordinates_Tests.DecimalDegreesToAngle()'],['../classPALib_1_1PACoordinates.html#ac54370ca5bd18d0746672d5ec454c903',1,'PALib.PACoordinates.DecimalDegreesToAngle()']]],
+  ['decimaldegreestodegreehours_8',['DecimalDegreesToDegreeHours',['../classPALib_1_1PAMacros.html#a76f0391dbdb161e33a523973e29f888b',1,'PALib::PAMacros']]],
+  ['decimalhourshour_9',['DecimalHoursHour',['../classPALib_1_1PAMacros.html#ab659130282a9a4e6f776f65af439eec1',1,'PALib::PAMacros']]],
+  ['decimalhoursminute_10',['DecimalHoursMinute',['../classPALib_1_1PAMacros.html#aa944e341dddad63b9bac5aec3a269643',1,'PALib::PAMacros']]],
+  ['decimalhourssecond_11',['DecimalHoursSecond',['../classPALib_1_1PAMacros.html#aadadd44f2f615bc7e62bbca4ec096ac2',1,'PALib::PAMacros']]],
+  ['decimalhourstociviltime_12',['decimalhourstociviltime',['../classPALib_1_1PADateTime.html#a382c2cff60ddbc49f322ea13f1a0646b',1,'PALib.PADateTime.DecimalHoursToCivilTime()'],['../classPALib_1_1Tests_1_1PADateTime__Tests.html#aafae2781dc5c30ebe6725ab2ec36d5bb',1,'PALib.Tests.PADateTime_Tests.DecimalHoursToCivilTime()']]],
+  ['declination_5fdegrees_13',['declination_degrees',['../classPALib_1_1PACoordinates.html#aad897e7e2249e9e7c2f117983dc3230d',1,'PALib::PACoordinates']]],
+  ['declination_5fminutes_14',['declination_minutes',['../classPALib_1_1PACoordinates.html#ae471f5fd2f0392ebcedc320d905ee899',1,'PALib::PACoordinates']]],
+  ['decminutes_15',['decMinutes',['../classPALib_1_1PACoordinates.html#a817b5fcdbda4b9051074c6149b6ba542',1,'PALib::PACoordinates']]],
+  ['degreehourstodecimaldegrees_16',['DegreeHoursToDecimalDegrees',['../classPALib_1_1PAMacros.html#a7562b7a03e5ae58259b3993dd2505663',1,'PALib::PAMacros']]],
+  ['degrees_17',['degrees',['../classPALib_1_1PAMacros.html#a4040afa3e7b52c94833cd436d5586c77',1,'PALib.PAMacros.Degrees()'],['../classPALib_1_1PACoordinates.html#ac9c3526f8a8d8ffbcc82fc45ca293209',1,'PALib.PACoordinates.degrees'],['../namespacePALib.html#a6492be717727d9bd8035e4692776c4ada9ef125630442bb42e2e367e0cf70d892',1,'PALib.Degrees']]],
+  ['degreesminutessecondstodecimaldegrees_18',['DegreesMinutesSecondsToDecimalDegrees',['../classPALib_1_1PAMacros.html#aeddbba24b4330c1393b5a6d961915a80',1,'PALib::PAMacros']]],
+  ['di_19',['di',['../classPALib_1_1PAMacros.html#a38f886f67f3232873bf9903af505bcec',1,'PALib::PAMacros']]],
+  ['distanceau_20',['distanceAU',['../classPALib_1_1PAPlanet.html#a9a82737e8ea63dbaef4dac2c2e7fb874',1,'PALib::PAPlanet']]],
+  ['dotnet_21',['practical-astronomy-dotnet',['../index.html',1,'']]],
+  ['dp_22',['dp',['../classPALib_1_1PAMacros.html#af4703da5ad0aeef29b2150c92a8d9d39',1,'PALib::PAMacros']]],
+  ['dy1_23',['dy1',['../classPALib_1_1PAMacros.html#a1a01d035fba23c9fd5cd38da21f39ca6',1,'PALib.PAMacros.dy1'],['../classPALib_1_1PAMacros.html#a5c68d647ca590e19cc6c51bd95b156d9',1,'PALib.PAMacros.dy1']]]
+];

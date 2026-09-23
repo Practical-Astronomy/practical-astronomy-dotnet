@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net10.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+		<PackageId>PracticalAstronomyDotNet</PackageId>
+		<Version>1.0.4</Version>
+		<Authors>James Carr</Authors>
+		<Title>Algorithms from "Practical Astronomy with your Calculator or Spreadsheet"</Title>
+		<Description>
+			This library contains an implementation of the algorithms from the "Practical Astronomy
+			with your Calculator or Spreadsheet" book, authored by Peter Duffet-Smith and Jonathan
+			Zwart.
+		</Description>
+		<RepositoryUrl>https://codeberg.org/jcarr/practical-astronomy-dotnet</RepositoryUrl>
+	</PropertyGroup>
+
+</Project>

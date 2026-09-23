@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['ca_0',['ca',['../classPALib_1_1PAMacros.html#acac043e12830991343193ecf9fc64326',1,'PALib::PAMacros']]],
+  ['cometdecdeg_1',['cometdecdeg',['../classPALib_1_1PAComet.html#a3138e86dd34773679471316f75954255',1,'PALib.PAComet.cometDecDeg'],['../classPALib_1_1PAComet.html#abb03ff52487bfecf93b5adb6188448a2',1,'PALib.PAComet.cometDecDeg']]],
+  ['cometdecmin_2',['cometdecmin',['../classPALib_1_1PAComet.html#aef93f48a6e3ed428f90a5be0f8744abc',1,'PALib.PAComet.cometDecMin'],['../classPALib_1_1PAComet.html#a1fda413bb24fb82873f2dc4c78953161',1,'PALib.PAComet.cometDecMin']]],
+  ['cometdecsec_3',['cometDecSec',['../classPALib_1_1PAComet.html#a71a6b101244195fecb86b63c85fb640f',1,'PALib::PAComet']]],
+  ['cometlatdeg_4',['cometLatDeg',['../classPALib_1_1PAMacros.html#a240b64d54ee3a601c7526d299a6c0a57',1,'PALib::PAMacros']]],
+  ['cometlongdeg_5',['cometLongDeg',['../classPALib_1_1PAMacros.html#affd6c333bed7f9698cabcb23b53d1dc3',1,'PALib::PAMacros']]],
+  ['cometrahour_6',['cometRAHour',['../classPALib_1_1PAComet.html#a1532964fb482a7ec35668d8f26a1fe54',1,'PALib::PAComet']]],
+  ['cometramin_7',['cometRAMin',['../classPALib_1_1PAComet.html#a931a466b77a4e48564924c62934a99f7',1,'PALib::PAComet']]],
+  ['cometrasec_8',['cometRASec',['../classPALib_1_1PAComet.html#abd42435472295c2df5daf21798235648',1,'PALib::PAComet']]],
+  ['correcteddecdeg_9',['correctedDecDeg',['../classPALib_1_1PACoordinates.html#a79ec54010772aa854ca25e87d1834e4f',1,'PALib::PACoordinates']]],
+  ['correcteddecmin_10',['correctedDecMin',['../classPALib_1_1PACoordinates.html#a2fc91509a45fa1ac58211fc9f583a7c0',1,'PALib::PACoordinates']]],
+  ['correcteddecminutes_11',['correctedDecMinutes',['../classPALib_1_1PACoordinates.html#a906dc11e4997b2d991739158cc5fcf88',1,'PALib::PACoordinates']]],
+  ['correctedrahour_12',['correctedRAHour',['../classPALib_1_1PACoordinates.html#a5163852a3369407fb291f95f9da6bcd9',1,'PALib::PACoordinates']]],
+  ['correctedramin_13',['correctedRAMin',['../classPALib_1_1PACoordinates.html#a5df41a44802772ee5f9764db94dad5dd',1,'PALib::PACoordinates']]],
+  ['correctedraminutes_14',['correctedRAMinutes',['../classPALib_1_1PACoordinates.html#af63cedf4e56920c4dc7167f27651b122',1,'PALib::PACoordinates']]],
+  ['correctedrasec_15',['correctedRASec',['../classPALib_1_1PACoordinates.html#af3f41eb842f52edd840ce9fe152ecadf',1,'PALib::PACoordinates']]],
+  ['correctedraseconds_16',['correctedRASeconds',['../classPALib_1_1PACoordinates.html#a33314f7dea24ba9c84f489bd5c1e276b',1,'PALib::PACoordinates']]]
+];
